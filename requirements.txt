@@ -1,0 +1,6 @@
+mediapipe==0.9.1.0
+numpy==1.24.2
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+pycaw==20220416
+python-vlc==3.0.18121
